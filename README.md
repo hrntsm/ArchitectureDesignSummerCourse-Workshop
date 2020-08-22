@@ -1,4 +1,4 @@
-# rchitectureDesignSummerCourse-Workshop
+# ArchitectureDesignSummerCourse-Workshop
 
 <img src=https://github.com/hrntsm/ArchitectureDesignSummerCourse-Workshop/blob/master/image/Thumbnail.png width=500>
 
