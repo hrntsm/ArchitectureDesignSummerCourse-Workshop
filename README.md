@@ -8,4 +8,5 @@ Before workshop, it is recommend to prepare below things.
 
 + install [Karamba](https://www.food4rhino.com/app/karamba3d) (Free version, not Trial version)
 + install [Crane](https://www.food4rhino.com/app/crane)
++ install [MeshEdit](https://www.food4rhino.com/app/meshedit)
 + calculator
