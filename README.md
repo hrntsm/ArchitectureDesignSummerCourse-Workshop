@@ -10,3 +10,4 @@ Before workshop, it is recommend to prepare below things.
 + install [Crane](https://www.food4rhino.com/app/crane)
 + install [MeshEdit](https://www.food4rhino.com/app/meshedit)
 + calculator
++ a sheet of paper
